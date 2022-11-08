@@ -1,0 +1,15 @@
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\bin\Debug\net6.0\atividade-pratica.exe
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\bin\Debug\net6.0\atividade-pratica.deps.json
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\bin\Debug\net6.0\atividade-pratica.runtimeconfig.json
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\bin\Debug\net6.0\atividade-pratica.dll
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\bin\Debug\net6.0\atividade-pratica.pdb
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\atividade-pratica.csproj.AssemblyReference.cache
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\atividade-pratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\atividade-pratica.AssemblyInfoInputs.cache
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\atividade-pratica.AssemblyInfo.cs
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\atividade-pratica.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\atividade-pratica.dll
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\refint\atividade-pratica.dll
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\atividade-pratica.pdb
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\atividade-pratica.genruntimeconfig.cache
+D:\Users\Lucas\Desenvolvimento\Uninter\Programacao-I\atividade-pratica\atividade-pratica\obj\Debug\net6.0\ref\atividade-pratica.dll
